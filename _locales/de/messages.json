@@ -57,7 +57,7 @@
         "message": "Titel einschließen"
     },
     "copiedToClipboard": {
-        "message": "Die Liste wurde erfolgreich in die Zwischenablagekopiert."
+        "message": "Die Liste wurde erfolgreich in die Zwischenablage kopiert."
     },
     "notCopiedToClipboard": {
         "message": "Beim Speichern in die Zwischenablage ist ein Fehler aufgetreten."
